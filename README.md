@@ -3,3 +3,5 @@
 
 hey bienvenido a namekusein# semana-frezzer
 primera semana de practicas de git y gitthub
+
+*vegeta
