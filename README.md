@@ -6,3 +6,4 @@ primera semana de practicas de git y gitthub
 
 *vegeta
 *goku
+*frezzer
